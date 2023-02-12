@@ -131,3 +131,6 @@ dmypy.json
 # Custom project folders
 cheatsheet/
 python/
+
+# Executable file of ml-agents
+p1_navigation/Banana_Windows_x86_64
