@@ -74,10 +74,7 @@ The agent was able to achieve mean score 13  after 630 episodes.
 
 To make the results more statistically relevant,  the learning process was tested over 20 different random_seeds, and it was taken the average of the 20 learning process.
 
-
-<p align="center">
-<object data="docs/learning_dynamics.svg" width="300" height="300"> </object>
-</p>
+![Learning dynamics graphic](docs/learning_dynamics.svg)
 
 ## Future work
 
