@@ -17,7 +17,7 @@ The algorithm selected in this project was a variation of the vanilla Deep Q-Net
 
 ## The model
 
-    The model architecture is cascaded except by the Advantage-Baseline part. The code snippet shown below describes the network:
+The model architecture is cascaded except by the Advantage-Baseline part. The code snippet shown below describes the network:
 
 ```    num_neurons=48
     fc1 (37, 48)
