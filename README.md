@@ -74,7 +74,7 @@ The target equation for Double DQN is shown below:
 
 ## Results
 
-The agent was able to solve the environment before running 665 
+The agent was able to solve the environment before running 630 
 episodes.
 
 Below, it is shown a demonstration of the performance of the trained agent.
